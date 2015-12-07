@@ -1,3 +1,5 @@
+For build this project without IDE need to use command mvn package and then run jar file (for more information look http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-first-application-executable-jar)
+
 All requests go to localhost:8080/..
 Every request begin from {login} - login of the user. It's need to very simple security.
 DB in memory H2.
